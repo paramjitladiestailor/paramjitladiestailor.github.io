@@ -668,7 +668,6 @@ footer {
   #about .container, 
   #experience .container,
   #service .container,
-  #education .container,
   #contact .container {
     padding-right: 15px;
     padding-left: 15px;
@@ -676,7 +675,6 @@ footer {
 
   #about .col-md-3,
   #experience .col-md-6,
-  #education .col-md-6,
   #contact .col-md-3 {
     padding: 0;
     margin: 0;
